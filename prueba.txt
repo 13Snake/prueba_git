@@ -1,2 +1,0 @@
-Esta solo es una prueba de un archivo para verificar
-si el comit se guarda o no
